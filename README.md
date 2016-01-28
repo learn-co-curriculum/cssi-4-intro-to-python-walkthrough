@@ -113,4 +113,4 @@ Take a moment on your own to **think** about situations where it would make sens
 #Resources
 Here is some <a href="http://anandology.com/python-practice-book/getting-started.html">documentation</a> on the Python interpreter 
 
-<a href='https://learn.co/lessons/cssi-4-intro-to-python-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4-intro-to-python-walkthrough' title='Intro to Python'>Intro to Python</a> on Learn.co and start learning to code for free.</p>
